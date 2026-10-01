@@ -1,0 +1,12 @@
+DataSet/
+models/
+*.pt
+*.pth
+predicciones_test.csv
+submission.csv
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+.DS_Store
